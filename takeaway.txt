@@ -1,0 +1,37 @@
+React must must only one wrapper
+
+
+Component
+    it is a function whose first letter is capital
+    call it just like calling htmlTag
+    it is a custom tag
+
+Css
+    inline css
+    external css
+        external file  (css)
+        import at index.js
+        use
+
+        product.css
+            .card
+                width:200px
+                height :200px
+                border
+
+how to perform operation insidea a tag use {}
+
+Bollean propwery
+    bollean are nots displsy on browsr
+
+object cannot be printed on browser
+object are not valid as react child
+
+
+what is printed on browser
+content which is written inside return are display on browser
+
+props:
+    Value pass with Compoment
+    if props is other then string then use curly brases { }
+    
