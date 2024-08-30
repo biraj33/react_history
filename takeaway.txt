@@ -19,7 +19,7 @@ Css
                 height :200px
                 border
 
-how to perform operation insidea a tag use {}
+how to perform operation insidea a tag use {} but {} doesnot support if-else for, while, do-while it only support Ternary 
 
 Bollean propwery
     bollean are nots displsy on browsr
@@ -34,4 +34,33 @@ content which is written inside return are display on browser
 props:
     Value pass with Compoment
     if props is other then string then use curly brases { }
-    
+
+
+Button:
+    onClick()
+
+Ternary Operator:
+
+
+when does compoment get render
+    when use state variable get changes compoment will render
+
+what happen when compoment gets render
+    first all content of browser gets removed,
+    the content are printed again
+
+
+react fragement:
+    <></>
+    It is use as a wrapper
+    It doesnot support any props(Style, className)
+
+img tag
+    always place image at pubic folder
+    in img src "." here . always point public folder
+
+
+fom
+
+all         value,  e.target.value
+checkbox    checked, e.value.checked
