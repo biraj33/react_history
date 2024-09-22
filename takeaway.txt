@@ -64,3 +64,24 @@ fom
 
 all         value,  e.target.value
 checkbox    checked, e.value.checked
+
+react-router-dom
+    change url on onClick
+    attrach page to url
+
+
+
+frontent request backend and backend give responce to frontent (api hit)
+C create =>post
+R read => get
+U update => put/patch
+D delete => delete
+
+
+
+
+user (crud)
+product (crud)
+
+portforly
+    api crud
